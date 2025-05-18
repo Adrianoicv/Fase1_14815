@@ -1,0 +1,3 @@
+﻿  graph.c
+C:\Adriano\Escola 24\AED\Fase2\Fase2\graph.c(91,19): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+  Fase2.vcxproj -> C:\Adriano\Escola 24\AED\Fase2\Fase2\x64\Debug\Fase2.exe
